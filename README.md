@@ -30,8 +30,8 @@ The experiments reported in the paper were run on the following stack.
 
 ### 1) Create a Conda environment (Python 3.8)
 ```bash
-conda create --name THGSL python=3.8
-conda activate THGSL
+conda create --name THG-Track python=3.8
+conda activate THG-Track
 ````
 
 ### 2) Install non-PyTorch dependencies
@@ -100,8 +100,7 @@ GSL_CAUSAL=1 GSL_ALLOW_INTRA=1 GSL_ALLOW_BACKWARD=0  USE_REAL_GNN=1 GSL_TOPK=50 
 
 ## Notes
 
-* This is an initial, scoped release. We welcome reports of inefficiencies or minor issues.
-* Features not included here are planned to be released after acceptance.
+* Feel free to report some inefficiencies in the code! (It's just initial version)
 
 
 
