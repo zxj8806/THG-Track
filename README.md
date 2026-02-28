@@ -1,6 +1,6 @@
-# THGSL: Temporal Heterogeneous Graph Structure Learning for Satellite-Video Multi-Object Tracking
+# THG-Track: Temporal Heterogeneous Graph Structure Learning for Satellite-Video Multi-Object Tracking
 
-Official code for **“THGSL: Temporal Heterogeneous Graph Structure Learning for Satellite-Video Multi-Object Tracking”**  
+Official code for **“THG-Track: Temporal Heterogeneous Graph Structure Learning for Satellite-Video Multi-Object Tracking”**  
 
 > **Note on datasets**  
 > Datasets are **not included** in this repository because many are large and/or license-restricted.  
